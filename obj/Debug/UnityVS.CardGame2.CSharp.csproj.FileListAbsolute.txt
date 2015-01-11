@@ -1,0 +1,9 @@
+E:\programming\unity\CardGame2\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\programming\unity\CardGame2\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\programming\unity\CardGame2\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\programming\unity\CardGame2\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\programming\unity\CardGame2\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\programming\unity\CardGame2\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\programming\unity\CardGame2\obj\Debug\UnityVS.CardGame2.CSharp.csprojResolveAssemblyReference.cache
+E:\programming\unity\CardGame2\obj\Debug\Assembly-CSharp.dll
+E:\programming\unity\CardGame2\obj\Debug\Assembly-CSharp.pdb
